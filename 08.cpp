@@ -13,9 +13,9 @@ class Average{
     }
 };
 //initializing static variables
-int Average::a = 42;
-int Average::b = 42;
-int Average::c = 42;
+int Average::a;
+int Average::b;
+int Average::c;
 
 int main() {
     int p,q,r;
